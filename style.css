@@ -1,0 +1,119 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+   color:black;
+    font-size: 40px;
+   margin-top: 140px;
+   margin-bottom: 10px;
+}
+p{
+    color: dimgray;
+    margin-bottom: 40px;
+}
+.name-highlight{
+    color:rgba(248, 65, 65, 0.925);
+    font-size: 50px;
+    margin-top: 0px;
+    
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+   
+
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,rgba(248, 53, 85, 0.884), tomato) ;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color:white;
+    font-weight: bold;
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.top-banner{
+   background-image: url("images/header-bg.png");
+   background-repeat:no-repeat;
+   background-position:center;
+}
+.cv-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,rgba(248, 53, 85, 0.884), tomato) ;
+    padding:10px 25px;
+    border-radius: 5px;
+    color:white;
+    font-weight: bold;
+}
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat:no-repeat;
+   background-position:center;
+}
+.text-center{
+   text-align: center;
+}
+.project-photo{
+    margin-left: 9%;
+}
+.project-photo img{
+    width: 30%;
+    margin:0px;
+}
+.latest-work{
+   background-image: url("images/latest-work-bg.png");
+   background-repeat:no-repeat;
+   background-position:center;
+    height: 300px;
+}
+.review h2{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.review{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.review-2{
+    width: 50%;
+    text-align: center;
+    margin-left: 24%;
+    
+}
+.gmail p ,a{
+    margin: 0px;
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+}
+.gmail{
+    text-align: center;
+    background-image: linear-gradient(45deg,rgba(248, 53, 85, 0.884),tomato);
+    padding:40px;
+    border-radius: 5px;
+    margin-left: 32%;
+    width:30%;
+    font-weight: bold;
+    
+}
+.skills{
+    text-align: center;
+}
+.skills h2{
+    padding: 0px;
+    margin-top:50px;
+}
+footer{
+    text-align: center;
+}
